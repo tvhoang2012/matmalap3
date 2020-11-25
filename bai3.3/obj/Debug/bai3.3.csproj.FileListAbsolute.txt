@@ -1,0 +1,9 @@
+E:\matmalap3\bai3.3\bin\Debug\bai3.3.exe.config
+E:\matmalap3\bai3.3\bin\Debug\bai3.3.exe
+E:\matmalap3\bai3.3\bin\Debug\bai3.3.pdb
+E:\matmalap3\bai3.3\obj\Debug\bai3.3.csprojAssemblyReference.cache
+E:\matmalap3\bai3.3\obj\Debug\bai3._3.Form1.resources
+E:\matmalap3\bai3.3\obj\Debug\bai3._3.Properties.Resources.resources
+E:\matmalap3\bai3.3\obj\Debug\bai3.3.csproj.GenerateResource.cache
+E:\matmalap3\bai3.3\obj\Debug\bai3.3.exe
+E:\matmalap3\bai3.3\obj\Debug\bai3.3.pdb
